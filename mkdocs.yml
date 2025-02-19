@@ -1,0 +1,15 @@
+site_name: Examen Unidad 6
+site_url: https://anthonyjortega.github.io/Examen_Unidad_6/
+docs_dir: 'docs'
+site_dir: 'site'
+nav:
+  - "home": index.md
+  - "Instalacion windows 11": instalacion_windows11.md
+  - "Especificaciones iphone 16": especificaciones_iphone16.md
+
+theme:
+  name: "readthedocs"
+
+plugins:
+  - search
+  - pdf-export
